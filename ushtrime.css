@@ -1,0 +1,16 @@
+*{
+    margin: 10;
+    padding: 1;
+}
+
+#ushtrime{
+    text-align: center;
+
+}
+.pajta{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#div1{
+    border: 2px black;  
+}
